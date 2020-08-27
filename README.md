@@ -1,5 +1,5 @@
-# COVID19_TimeSeries
-Time Series analyses on the COVID19 Dataset provided by Johns Hopkins University
+# COVID-19 Time-Series Analysis
+Time-Series analyses on the COVID19 Dataset provided by Johns Hopkins University
 
 #### Study By
 #### JD Kim - Muriel Kosaka -  Gabe Arnold
