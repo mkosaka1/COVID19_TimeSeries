@@ -19,7 +19,7 @@ Time Series analyses on the COVID19 Dataset provided by Johns Hopkins University
 
 <h3 name='understanding'>Understanding Our Data</h3>
 
-![COVID-19 Cases](./graphs/overall_cases.png)
+![COVID-19 Cases](./Images/Cases_Over_time.png)
 
 [JHU GitHub](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) 
 
@@ -87,15 +87,15 @@ Death cases were similar to confirmed cases. Large metropolitans that were hit e
 
 <p>Currently, our models predicted that there will be a continuation of the upward trends in both confirmed cases and death cases, however the amount varied depending on the location. </p>
 
-![Mass State Forecast](./graphs/mass_forecast.png)
+![Mass State Forecast](./Images/Massachusetts_Death_Cases_Forecast.png)
 
-![New York City Confirmed Cases](./graphs/nyc_forecast.png)
+![New York City Confirmed Cases](./Images/New_York_Confirmed_Cases_Forecast.png)
 
-![California State Confirmed Cases](./graphs/california.png)
+![California State Confirmed Cases](./Images/California_Confirmed_Cases_Forecast.png)
 
 <h3 name='recommendations'>Recommendations</h3>
 
 <p>
-Based on the analysis performed, it is recommended that cities institute some measure of lockdown protocal. As this has shown promise in mitigating the cases and and keeping the death rate down.
+Based on the analysis performed, it is recommended that cities institute some measure of lockdown protocol. As this has shown promise in mitigating the cases and and keeping the death rate down.
 </p>
 
