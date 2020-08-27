@@ -29,7 +29,8 @@ Time Series analyses on the COVID19 Dataset provided by Johns Hopkins University
 <p>
 Our dataset was collected from JHU GitHub. It contains up-to-date information regarding the latest number of COVID-19 confirmed cases and COVID-19 Deaths. Although these models were only ran on domestic (United States) data, international data is also available.
 </p>
-[Google Slides Presentation](https://docs.google.com/presentation/d/19bSeF2CYUXwHmU5_qNF629tYyzYrAgu9pLZPx3qws1M/edit?usp=sharing)
+
+![Google Slides Presentation](https://docs.google.com/presentation/d/19bSeF2CYUXwHmU5_qNF629tYyzYrAgu9pLZPx3qws1M/edit?usp=sharing)
 
 
 <p>
